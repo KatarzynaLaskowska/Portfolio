@@ -1,2 +1,2 @@
-# PowerBI
-Portfolio
+# Katarzyna Laskowska - Portfolio
+Wybrane prace
